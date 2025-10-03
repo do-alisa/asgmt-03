@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+
+<?import javafx.scene.text.Font?>
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+    <!-- Title -->
+    <Label text="Define Programming Languages">
+        <font>
+            <Font size="24.0"/>
+        </font>
+    </Label>
+</VBox>
