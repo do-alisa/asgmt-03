@@ -2,7 +2,7 @@
 # Version: 0.2
 
 # who did what:
-1. 
+1. Alisa Do - Home Page, navigation to Define Programming Languages page, project manager
 2. 
 3. 
 3. 
