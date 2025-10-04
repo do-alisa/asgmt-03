@@ -3,8 +3,8 @@
 
 # who did what:
 1. Alisa Do - Home Page, navigation to Define Programming Languages page, project manager
-2. 
-3. 
+2. Jiang Du - Define Programming Languages page: Implemented TextArea input, Back, Cancel, and Submit actions.
+3. Jamie O'Neill - Updated UI of Home Page/Define Programming Languages, 
 3. 
 
 
